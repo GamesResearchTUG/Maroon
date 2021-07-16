@@ -112,7 +112,7 @@ MonoBehaviour:
       unityScenePath: Maroon/scenes/experiments/FaradaysLaw/FaradaysLaw.vr
       unitySceneName: FaradaysLaw.vr
       isVirtualRealityScene: 1
-    - unitySceneAsset: {fileID: 102900000, guid: 787464c5a8cba60459d5a7c7bf2338ab,
+    - unitySceneAsset: {fileID: 102900000, guid: 647f074db0667fd40961e925557299b0,
         type: 3}
       unityScenePath: Maroon/scenes/experiments/HuygensPrinciple/HuygensPrinciple.vr
       unitySceneName: HuygensPrinciple.vr

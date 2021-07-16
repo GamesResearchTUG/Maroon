@@ -50,6 +50,9 @@ TagManager:
   - WaterPlane
   - WaveSource
   - GlobalEntity
+  - Calculator
+  - VoltmeterMeasuringPoint
+  - Diamond
   layers:
   - Default
   - TransparentFX
