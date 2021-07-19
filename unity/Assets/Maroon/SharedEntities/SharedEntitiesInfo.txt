@@ -1,0 +1,2 @@
+This directory contains manager- and helper-items, which can be reused in many scenes. They are *not* loaded
+automatically, instead they need to be added manually if needed. You might also want to look at GlobalEntities.

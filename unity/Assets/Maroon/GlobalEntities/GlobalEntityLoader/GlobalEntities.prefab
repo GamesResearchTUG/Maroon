@@ -55,3 +55,5 @@ MonoBehaviour:
     type: 3}
   _networkManagerPrefab: {fileID: 2811340506612267987, guid: a5856923d4b332d43a49ce8ca34197b7,
     type: 3}
+  _globalInputManagerPrefab: {fileID: 8818070926525646678, guid: 302b7109c8d10294ca8d00d1afda5596,
+    type: 3}

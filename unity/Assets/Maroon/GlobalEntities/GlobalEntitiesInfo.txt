@@ -1,0 +1,3 @@
+This directory contains manager- and helper-items, which are present in *every* scene (with the exception of the
+bootstrapping scene, which is responsible for loading the items). They are loaded automatically by the
+GlobalEntityLoader. You might also want to look at SharedEntities.
