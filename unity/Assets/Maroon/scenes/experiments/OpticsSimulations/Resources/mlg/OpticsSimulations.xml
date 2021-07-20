@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageManager>
+  <Translations>
+
+
+    <Translation
+      Key="GeneralCtrl">
+      <English>General Controls</English>
+      <German>Allgemeine Einstellungen</German>
+    </Translation>
+    <Translation
+      Key="LensCtrl">
+      <English>Lens Controls</English>
+      <German>Linseneinstellungen</German>
+    </Translation>
+    <Translation
+      Key="LaserParam">
+      <English>Laser Parameters</English>
+      <German>Laserparameter</German>
+    </Translation>
+
+
+
+
+
+
+    <Translation
+      Key="ViewSetting">
+      <English>Top View</English>
+      <German>Vogelperspektive</German>
+    </Translation>
+<Translation
+      Key="AddLaser">
+      <English>Add Laser</English>
+      <German>Laser Hinzufügen</German>
+    </Translation>
+<Translation
+      Key="RemoveLaser">
+      <English>Remove Laser</English>
+      <German>Laser entfernen</German>
+    </Translation>
+
+<Translation
+      Key="ClearTable">
+      <English>Clear Table</English>
+      <German>Tisch leeren</German>
+    </Translation>   
+
+<Translation
+      Key="SelectLaserConfig">
+      <English>Select laser configuration to add ...</English>
+      <German>Wähle Laserkonfiguration zum hinzufügen ...</German>
+    </Translation>   
+
+<Translation
+      Key="RGBArray">
+      <English>Add RGB Laser Array</English>
+      <German>RGB Laserreihe hinzufügen</German>
+    </Translation>   
+
+<Translation
+      Key="RedArray">
+      <English>Add red Laser Array</English>
+      <German>Rote Laserreihe hinzufügen</German>
+    </Translation>   
+
+
+<Translation
+      Key="FocusedArray">
+      <English>Add focused Laser Array</English>
+      <German>Fokussierte Laserreihe hinzufügen</German>
+    </Translation>   
+<Translation
+      Key="ShiftedFocusedArray">
+      <English>Add shifted focused Laser Array</English>
+      <German>Verschobene, fokussierte Laserreihe hinzufügen</German>
+    </Translation>
+
+	  <Translation
+      Key="specificrefractiveindex">
+		  <English>Refractive index for current wavelength and material</English>
+		  <German>Brechungsindex für jetzige Wellenlänge und Linsenmaterial</German>
+	  </Translation>
+
+
+
+
+	  <Translation
+      Key="biconvex">
+      <English>Biconvex Lens</English>
+      <German>Bikonvexe Linse</German>
+    </Translation>   
+<Translation
+      Key="biconcave">
+      <English>Biconcave Lens</English>
+      <German>Bikonkave Linse</German>
+    </Translation>   
+<Translation
+      Key="Flat">
+      <English>Flat plate</English>
+      <German>Flache Scheibe</German>
+    </Translation>
+	  <Translation
+			Key="Ball">
+		  <English>Ball</English>
+		  <German>Kugel</German>
+	  </Translation>
+<Translation
+	  Key="positiveMeniscus">
+      <English>Positive meniscus lens</English>
+      <German>positiver-meniskus-Linse</German>
+    </Translation>   
+
+<Translation
+      Key="negativeMeniscus">
+      <English>Negative meniscus lens</English>
+      <German>negativer-meniskus-Linse</German>
+    </Translation>   
+<Translation
+      Key="planoconvex">
+      <English>Planoconvex lens</English>
+      <German>plankonvexe Linse</German>
+    </Translation>   
+<Translation
+      Key="planoconcave">
+      <English>Planoconcave lens</English>
+      <German>plankonkave Linse</German>
+    </Translation>
+
+
+	  <Translation
+      Key="leftsegment">
+		  <English>left Segment</English>
+		  <German>linkes Linsensegment</German>
+	  </Translation>
+	  <Translation
+      Key="rightsegment">
+		  <English>right Segment</English>
+		  <German>rechtes Linsensegment</German>
+	  </Translation>
+	  <Translation
+      Key="lensradius">
+		  <English>lens radius</English>
+		  <German>Linsenradius</German>
+	  </Translation>
+	  <Translation
+      Key="lensthickness">
+		  <English>lens thickness</English>
+		  <German>Linsendicke</German>
+	  </Translation>
+
+
+
+
+
+
+
+	  <Translation
+			Key="selectcauchyconfig">
+		  <English>Select Cauchy-Model preset to add...</English>
+		  <German>Wähle Cauchy-Modell-Voreinstellung zum hinzufügen ...</German>
+	  </Translation>
+
+
+
+
+	  <Translation
+		   Key="prismglass">
+	  <English>Prism Glass (N-SF11)</English>
+	  <German>Prismaglas (N-SF11)</German>
+	  </Translation>
+	  <Translation
+		   Key="windowglass">
+	  <English>window glass (soda lime)</English>
+	  <German>Fensterglas (soda lime)</German>
+	  </Translation>
+	  <Translation
+
+		   Key="acrylic">
+	  <English>Acrylic (PMMA)</English>
+	  <German>Acryl (PMMA)</German>
+	  </Translation>
+	  <Translation
+		   Key="water">
+	  <English>Water</English>
+	  <German>Wasser</German>
+	  </Translation>
+
+
+	  <Translation
+		 Key="diamond">
+		  <English>Diamond</English>
+		  <German>Diamant</German>
+	  </Translation>
+	  <Translation
+		 Key="sapphire">
+		  <English>Sapphire</English>
+		  <German>Saphir</German>
+	  </Translation>
+	  
+	  
+	   <Translation
+		 Key="hardcrownglass">
+		  <English>Hard crown glass (K5)</English>
+		  <German>Hartes Kronglas (K5)</German>
+	  </Translation>
+	  
+	   <Translation
+		 Key="denseflintglass">
+		  <English>Dense flint glass (SF10)</English>
+		  <German>Dichtes Flintglas (SF10)</German>
+	  </Translation>
+		  
+		  
+		   <Translation
+		 Key="fusedsilica">
+		  <English>Fused silica</English>
+		  <German>Quarzglas</German>
+	  </Translation>
+			  
+		  
+	   <Translation
+		 Key="borosilicateglass">
+		  <English>Borosilicate glass (BK7)</English>
+		  <German>Borosilikatglas (BK7)</German>
+	  </Translation>
+
+
+
+
+
+	  <Translation
+		  Key="intensity">
+		  <English>intensity</English>
+		  <German>Intensität</German>
+	  </Translation>
+	  <Translation
+		  Key="wavelength">
+		  <English>wavelength</English>
+		  <German>Wellenlänge</German>
+	  </Translation>
+
+	  <Translation
+		  Key="lensRI">
+		  <English>Cauchy-Model</English>
+		  <German>Cauchy-Modell</German>
+	  </Translation>
+	  <Translation
+		  Key="surroundingRI">
+		  <English>Cauchy-Model: Parameter B</English>
+		  <German>Cauchy-Modell: Parameter B</German>
+	  </Translation>
+
+	  <Translation
+		  Key="hidelenscontrols">
+		  <English>hide Lens Controls</English>
+		  <German>Linseneinstellungen verbergen</German>
+	  </Translation>
+
+
+	  <Translation
+		  Key="reflectionvsrefraction">
+		  <English>ratio of refracted and reflected light</English>
+		  <German>Verhältnis von gebrochenem und reflektiertem Licht</German>
+	  </Translation>
+
+	  <Translation
+		  Key="maxnumberoflasers">
+		  <English>Sadly, this table only supports the weight of up to {0} laserpointers.</English>
+		  <German>Leider kann dieser Tisch nur das Gewicht von maximal {0} Laserpointern tragen.</German>
+	  </Translation>
+
+
+
+
+
+
+
+
+
+  </Translations>
+</LanguageManager>
